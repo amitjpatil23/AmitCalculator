@@ -14,7 +14,7 @@ if __name__ == '__main__':
     displayName('Amit')
     displayName('Vivaan')
     displayName('Riaan')
-
+    displayName('Gayatri')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 
